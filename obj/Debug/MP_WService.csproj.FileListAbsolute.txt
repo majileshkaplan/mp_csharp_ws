@@ -1,0 +1,9 @@
+c:\users\mparambil_admin\documents\visual studio 2012\Projects\MP_WService\bin\Debug\MP_WService.exe.config
+c:\users\mparambil_admin\documents\visual studio 2012\Projects\MP_WService\bin\Debug\MP_WService.exe
+c:\users\mparambil_admin\documents\visual studio 2012\Projects\MP_WService\bin\Debug\MP_WService.pdb
+c:\users\mparambil_admin\documents\visual studio 2012\Projects\MP_WService\bin\Debug\log4net.dll
+c:\users\mparambil_admin\documents\visual studio 2012\Projects\MP_WService\obj\Debug\MP_WService.csprojResolveAssemblyReference.cache
+c:\users\mparambil_admin\documents\visual studio 2012\Projects\MP_WService\obj\Debug\MP_WService.ProjectInstaller.resources
+c:\users\mparambil_admin\documents\visual studio 2012\Projects\MP_WService\obj\Debug\MP_WService.csproj.GenerateResource.Cache
+c:\users\mparambil_admin\documents\visual studio 2012\Projects\MP_WService\obj\Debug\MP_WService.exe
+c:\users\mparambil_admin\documents\visual studio 2012\Projects\MP_WService\obj\Debug\MP_WService.pdb

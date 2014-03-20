@@ -1,0 +1,34 @@
+﻿Installing assembly 'c:\Users\mparambil_admin\Documents\Visual Studio 2012\Projects\MP_WService\bin\Debug\MP_WService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\mparambil_admin\Documents\Visual Studio 2012\Projects\MP_WService\bin\Debug\MP_WService.InstallLog
+   assemblypath = c:\Users\mparambil_admin\Documents\Visual Studio 2012\Projects\MP_WService\bin\Debug\MP_WService.exe
+Installing service MyService...
+Service MyService has been successfully installed.
+Creating EventLog source MyService in log Application...
+Committing assembly 'c:\Users\mparambil_admin\Documents\Visual Studio 2012\Projects\MP_WService\bin\Debug\MP_WService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\mparambil_admin\Documents\Visual Studio 2012\Projects\MP_WService\bin\Debug\MP_WService.InstallLog
+   assemblypath = c:\Users\mparambil_admin\Documents\Visual Studio 2012\Projects\MP_WService\bin\Debug\MP_WService.exe
+Uninstalling assembly 'c:\Users\mparambil_admin\Documents\Visual Studio 2012\Projects\MP_WService\bin\Debug\MP_WService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\mparambil_admin\Documents\Visual Studio 2012\Projects\MP_WService\bin\Debug\MP_WService.InstallLog
+   assemblypath = c:\Users\mparambil_admin\Documents\Visual Studio 2012\Projects\MP_WService\bin\Debug\MP_WService.exe
+Removing EventLog source MyService.
+Service MyService is being removed from the system...
+Service MyService was successfully removed from the system.
+Installing assembly 'c:\Users\mparambil_admin\Documents\Visual Studio 2012\Projects\MP_WService\bin\Debug\MP_WService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\mparambil_admin\Documents\Visual Studio 2012\Projects\MP_WService\bin\Debug\MP_WService.InstallLog
+   assemblypath = c:\Users\mparambil_admin\Documents\Visual Studio 2012\Projects\MP_WService\bin\Debug\MP_WService.exe
+Installing service MyService...
+Service MyService has been successfully installed.
+Creating EventLog source MyService in log Application...
+Committing assembly 'c:\Users\mparambil_admin\Documents\Visual Studio 2012\Projects\MP_WService\bin\Debug\MP_WService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\mparambil_admin\Documents\Visual Studio 2012\Projects\MP_WService\bin\Debug\MP_WService.InstallLog
+   assemblypath = c:\Users\mparambil_admin\Documents\Visual Studio 2012\Projects\MP_WService\bin\Debug\MP_WService.exe
